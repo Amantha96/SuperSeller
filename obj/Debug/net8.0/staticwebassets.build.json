@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zR+JOp87BT3MpGkeMoGgi45SiuTtFFbqqGE06Z3azjg=",
+  "Hash": "s3mb1EpL/WITvXcPjj9e8UIDvj9+MxS20GGJ9JNjhbo=",
   "Source": "SuperSeller",
   "BasePath": "_content/SuperSeller",
   "Mode": "Default",
@@ -1195,25 +1195,6 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240116195024368.png",
-      "SourceId": "SuperSeller",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\",
-      "BasePath": "_content/SuperSeller",
-      "RelativePath": "Products/20240116195024368.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Products\\20240116195024368.png"
-    },
-    {
       "Identity": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240116234649842.png",
       "SourceId": "SuperSeller",
       "SourceType": "Discovered",
@@ -1231,25 +1212,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Products\\20240116234649842.png"
-    },
-    {
-      "Identity": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000235974.png",
-      "SourceId": "SuperSeller",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\",
-      "BasePath": "_content/SuperSeller",
-      "RelativePath": "Products/20240117000235974.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Products\\20240117000235974.png"
     },
     {
       "Identity": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000256184.png",
@@ -1497,25 +1459,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Products\\20240117000739481.png"
-    },
-    {
-      "Identity": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000800468.jpeg",
-      "SourceId": "SuperSeller",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\",
-      "BasePath": "_content/SuperSeller",
-      "RelativePath": "Products/20240117000800468.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Products\\20240117000800468.jpeg"
     },
     {
       "Identity": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000814732.png",
