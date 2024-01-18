@@ -1,0 +1,449 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SuperSeller.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SuperSeller.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240116195024368.png",
+      "PackagePath": "staticwebassets\\Products\\20240116195024368.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240116234649842.png",
+      "PackagePath": "staticwebassets\\Products\\20240116234649842.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000235974.png",
+      "PackagePath": "staticwebassets\\Products\\20240117000235974.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000256184.png",
+      "PackagePath": "staticwebassets\\Products\\20240117000256184.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000310096.png",
+      "PackagePath": "staticwebassets\\Products\\20240117000310096.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000327772.png",
+      "PackagePath": "staticwebassets\\Products\\20240117000327772.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000342209.png",
+      "PackagePath": "staticwebassets\\Products\\20240117000342209.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000410720.png",
+      "PackagePath": "staticwebassets\\Products\\20240117000410720.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000421264.png",
+      "PackagePath": "staticwebassets\\Products\\20240117000421264.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000437951.png",
+      "PackagePath": "staticwebassets\\Products\\20240117000437951.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000537956.png",
+      "PackagePath": "staticwebassets\\Products\\20240117000537956.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000613166.png",
+      "PackagePath": "staticwebassets\\Products\\20240117000613166.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000627071.png",
+      "PackagePath": "staticwebassets\\Products\\20240117000627071.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000656315.png",
+      "PackagePath": "staticwebassets\\Products\\20240117000656315.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000721214.png",
+      "PackagePath": "staticwebassets\\Products\\20240117000721214.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000739481.png",
+      "PackagePath": "staticwebassets\\Products\\20240117000739481.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000800468.jpeg",
+      "PackagePath": "staticwebassets\\Products\\20240117000800468.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000814732.png",
+      "PackagePath": "staticwebassets\\Products\\20240117000814732.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117000827455.png",
+      "PackagePath": "staticwebassets\\Products\\20240117000827455.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117001100542.png",
+      "PackagePath": "staticwebassets\\Products\\20240117001100542.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117001140010.png",
+      "PackagePath": "staticwebassets\\Products\\20240117001140010.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\20240117001220740.png",
+      "PackagePath": "staticwebassets\\Products\\20240117001220740.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\Acer Aspire 5 Laptop.png",
+      "PackagePath": "staticwebassets\\Products\\Acer Aspire 5 Laptop.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\Apple AirPods Pro.png",
+      "PackagePath": "staticwebassets\\Products\\Apple AirPods Pro.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\Asus ROG Gaming Mouse.png",
+      "PackagePath": "staticwebassets\\Products\\Asus ROG Gaming Mouse.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\Bose QuietComfort 35 II.png",
+      "PackagePath": "staticwebassets\\Products\\Bose QuietComfort 35 II.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\Canon EOS Rebel T7i.png",
+      "PackagePath": "staticwebassets\\Products\\Canon EOS Rebel T7i.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\Corsair Mechanical Keyboard.png",
+      "PackagePath": "staticwebassets\\Products\\Corsair Mechanical Keyboard.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\DJI Mavic Air 2 Drone.png",
+      "PackagePath": "staticwebassets\\Products\\DJI Mavic Air 2 Drone.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\Dell XPS 13.png",
+      "PackagePath": "staticwebassets\\Products\\Dell XPS 13.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\Fitbit Charge 5.jpeg",
+      "PackagePath": "staticwebassets\\Products\\Fitbit Charge 5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\HP LaserJet Printer.png",
+      "PackagePath": "staticwebassets\\Products\\HP LaserJet Printer.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\LG Ultrawide Monitor.png",
+      "PackagePath": "staticwebassets\\Products\\LG Ultrawide Monitor.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\Lenovo ThinkPad X1 Carbon.png",
+      "PackagePath": "staticwebassets\\Products\\Lenovo ThinkPad X1 Carbon.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\Logitech Keyboard.png",
+      "PackagePath": "staticwebassets\\Products\\Logitech Keyboard.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\MSI Pluse.png",
+      "PackagePath": "staticwebassets\\Products\\MSI Pluse.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\Microsoft Surface Pro 7.png",
+      "PackagePath": "staticwebassets\\Products\\Microsoft Surface Pro 7.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\Nintendo Switch.png",
+      "PackagePath": "staticwebassets\\Products\\Nintendo Switch.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\Razer BlackWidow Elite.png",
+      "PackagePath": "staticwebassets\\Products\\Razer BlackWidow Elite.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\Samsung 2TB SSD.png",
+      "PackagePath": "staticwebassets\\Products\\Samsung 2TB SSD.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\Samsung Galaxy S21.png",
+      "PackagePath": "staticwebassets\\Products\\Samsung Galaxy S21.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\Sony 4K Smart TV.png",
+      "PackagePath": "staticwebassets\\Products\\Sony 4K Smart TV.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\Products\\TP-Link Archer C4000 Router.png",
+      "PackagePath": "staticwebassets\\Products\\TP-Link Archer C4000 Router.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\products20240116234251550.png",
+      "PackagePath": "staticwebassets\\products20240116234251550.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\products20240116234307976.png",
+      "PackagePath": "staticwebassets\\products20240116234307976.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer™\\source\\repos\\SuperSeller\\SuperSeller\\wwwroot\\products20240116234554467.png",
+      "PackagePath": "staticwebassets\\products20240116234554467.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SuperSeller.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SuperSeller.props",
+      "PackagePath": "build\\SuperSeller.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SuperSeller.props",
+      "PackagePath": "buildMultiTargeting\\SuperSeller.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SuperSeller.props",
+      "PackagePath": "buildTransitive\\SuperSeller.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
